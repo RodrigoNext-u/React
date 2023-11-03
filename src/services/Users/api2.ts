@@ -1,0 +1,1 @@
+export const fetchUsers2 = fetch("https://type.fit/api/quotes").then((data) => data.json(),);
